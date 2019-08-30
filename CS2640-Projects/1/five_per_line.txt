@@ -1,0 +1,26 @@
+How many ints per a line would you like displayed (0 < n <= 20): 5
+Please enter in an int and then press enter (This will repeat 20 times): 1
+Please enter in an int and then press enter (This will repeat 20 times): 2
+Please enter in an int and then press enter (This will repeat 20 times): 3
+Please enter in an int and then press enter (This will repeat 20 times): 4
+Please enter in an int and then press enter (This will repeat 20 times): 5
+Please enter in an int and then press enter (This will repeat 20 times): 6
+Please enter in an int and then press enter (This will repeat 20 times): 7
+Please enter in an int and then press enter (This will repeat 20 times): 8
+Please enter in an int and then press enter (This will repeat 20 times): 9
+Please enter in an int and then press enter (This will repeat 20 times): 10
+Please enter in an int and then press enter (This will repeat 20 times): 11
+Please enter in an int and then press enter (This will repeat 20 times): 12
+Please enter in an int and then press enter (This will repeat 20 times): 13
+Please enter in an int and then press enter (This will repeat 20 times): 14
+Please enter in an int and then press enter (This will repeat 20 times): 15
+Please enter in an int and then press enter (This will repeat 20 times): 16
+Please enter in an int and then press enter (This will repeat 20 times): 17
+Please enter in an int and then press enter (This will repeat 20 times): 18
+Please enter in an int and then press enter (This will repeat 20 times): 19
+Please enter in an int and then press enter (This will repeat 20 times): 20
+20 19 18 17 16 
+15 14 13 12 11 
+10 9 8 7 6 
+5 4 3 2 1 
+-- program is finished running --
